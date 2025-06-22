@@ -7,3 +7,5 @@ My name is Brandon Hollada and in creating this ePortfolio, I find myself reflec
 [Code Review Video](https://youtu.be/2sgM6CZ2jz8)
 
 The link is for a video code review I did on my choosen artifacts. In the code review, I explain the functions of the original project and the changes that I planned to implement to the projects. The review determines weakness and limitations and my thoughts on how to address them. All the limitations may have been improved, but this shows my understanding of the projects shortcomings and possible changes. 
+
+## Software Design and Engineering Enhancment
