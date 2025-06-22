@@ -8,4 +8,17 @@ My name is Brandon Hollada and in creating this ePortfolio, I find myself reflec
 
 The link is for a video code review I did on my choosen artifacts. In the code review, I explain the functions of the original project and the changes that I planned to implement to the projects. The review determines weakness and limitations and my thoughts on how to address them. All the limitations may have been improved, but this shows my understanding of the projects shortcomings and possible changes. 
 
-## Software Design and Engineering Enhancment
+## Software Design and Engineering
+[Narrative](https://github.com/HolladaB/CS499/blob/49a8b89713a3292fba86e5f44f4e1830bce05ea4/Narratives/CS499Milestone2-Hollada.pdf)
+
+For this portion of the portfolio, I have supplied a narrative that explains why the artifact was choosen. The artifact lists off lessons that were learned in its creeation, problems that were solves, and potential flaws that still exist. 
+
+## Algorithms and Data Structure
+[Narrative](https://github.com/HolladaB/CS499/blob/49a8b89713a3292fba86e5f44f4e1830bce05ea4/Narratives/CS499Milestone2-Hollada.pdf)
+
+For this portion of the portfolio, I have supplied a narrative that explains why the artifact was choosen. The artifact lists off lessons that were learned in its creeation, problems that were solves, and potential flaws that still exist. 
+
+## Databases Enhancement
+[Narrative](https://github.com/HolladaB/CS499/blob/49a8b89713a3292fba86e5f44f4e1830bce05ea4/Narratives/CS499Milestone2-Hollada.pdf)
+
+For this portion of the portfolio, I have supplied a narrative that explains why the artifact was choosen. The artifact lists off lessons that were learned in its creeation, problems that were solves, and potential flaws that still exist. 
