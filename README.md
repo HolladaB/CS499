@@ -14,7 +14,7 @@ The link is for a video code review I did on my choosen artifacts. In the code r
 For this portion of the portfolio, I have supplied a narrative that explains why the artifact was choosen. The artifact lists off lessons that were learned in its creeation, problems that were solves, and potential flaws that still exist. 
 
 ## Algorithms and Data Structure
-[Narrative](https://github.com/HolladaB/CS499/blob/49a8b89713a3292fba86e5f44f4e1830bce05ea4/Narratives/CS499Milestone2-Hollada.pdf)
+[Narrative](https://github.com/HolladaB/CS499/blob/05de416267f26e0a67dedbfd189459144ee43894/Narratives/CS499Milestone3-Hollada.pdf)
 
 For this portion of the portfolio, I have supplied a narrative that explains why the artifact was choosen. The artifact lists off lessons that were learned in its creeation, problems that were solves, and potential flaws that still exist. 
 
