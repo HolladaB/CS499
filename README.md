@@ -19,6 +19,6 @@ For this portion of the portfolio, I have supplied a narrative that explains why
 For this portion of the portfolio, I have supplied a narrative that explains why the project for CS340 was chosen. The artifact lists off the lessons that were learned in its creation, problems that were solves, and potential flaws that still exist. It gives a description of the enhancements that show my skills in algorithms and provides my thought process. It gives my problem-solving methodology and potential shortcoming of the program. 
 
 ## Databases Enhancement
-[Narrative](https://github.com/HolladaB/CS499/blob/49a8b89713a3292fba86e5f44f4e1830bce05ea4/Narratives/CS499Milestone2-Hollada.pdf)](https://github.com/HolladaB/CS499/blob/7dd893056736f258632f6e9aaed0d134dad27d1b/Narratives/CS499Milestone4-Hollada.pdf)
+[Narrative](https://github.com/HolladaB/CS499/blob/7dd893056736f258632f6e9aaed0d134dad27d1b/Narratives/CS499Milestone4-Hollada.pdf)
 
 For this portion of the portfolio, I have supplied a narrative that explains why the project for CS340 was chosen. The artifact lists off lessons that were learned in its creation, problems that were solves, and potential flaws that still exist. It gives a description of the enhancements that show my skills in database and provides my thought process. It describes how the enhancements show my understanding of databases and reasons for the enhancements. Alongside that, it gives a detailed description of ways to improve the current version.  
