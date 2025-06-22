@@ -17,4 +17,4 @@ This program can be run through visual studio code. This version of the design d
 
 This program can be run through visual studio code. This version of the design requires a database to be setup to function correctly. I utilized mySQL to create and authorize the database. Below is a pdf that has pictures showing these steps at the end of the document
 
-[setup]()
+[setup](https://github.com/HolladaB/CS499/blob/192232233a971b878035ea44accbfe38ca81b71c/Narratives/CS499Milestone4-Hollada.pdf)
