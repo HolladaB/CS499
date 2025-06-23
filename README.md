@@ -11,7 +11,7 @@ The link is for a video code review I did on my chosen artifacts. In the code re
 ## Software Design and Engineering
 [Narrative](https://github.com/HolladaB/CS499/blob/49a8b89713a3292fba86e5f44f4e1830bce05ea4/Narratives/CS499Milestone2-Hollada.pdf)
 
-For this portion of the portfolio, I have supplied a narrative that explains why the project for CS360 was chosen. The artifact lists off lessons that were learned in its creation, problems that were solved, and potential flaws that still exist. It is used to explain how I showed my abilities in improving the design of a previous program. It explains how what enhancements showcase this. 
+For this portion of the portfolio, I have supplied a narrative that explains why the project for CS360 was chosen. The artifact lists off lessons that were learned in its creation, problems that were solved, and potential flaws that still exist. It is used to explain how I showed my abilities in improving the design of a previous program. It explains how what enhancements showcase this.
 
 ## Algorithms and Data Structure
 [Narrative](https://github.com/HolladaB/CS499/blob/05de416267f26e0a67dedbfd189459144ee43894/Narratives/CS499Milestone3-Hollada.pdf)
